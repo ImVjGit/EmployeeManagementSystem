@@ -1,0 +1,9 @@
+.navbar{
+    padding: 20px 0;
+  }
+  .cardwrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6rem;
+}

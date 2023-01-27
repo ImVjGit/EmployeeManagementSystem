@@ -1,0 +1,21 @@
+
+.textforp{
+    font-size: 22px;
+    font-weight: normal;
+    line-height: 1.6;
+    color: #C4C5C5;
+    margin-bottom: 13px;
+
+}
+.cardwrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6rem;
+}
+.signiwrap{
+    margin-top: 20px;
+}
+.invite{
+    color: #0077FF;
+}
